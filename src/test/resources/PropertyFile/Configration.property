@@ -1,0 +1,4 @@
+ #Tuesday 20/03/2018
+ weburl=https://accounts.google.com
+ webbrowserpath= ./softwares/chromedriver.exe
+ webbrowserkey=webdriver.chrome.driver
